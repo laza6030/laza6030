@@ -4,7 +4,7 @@
 
 My name is <strong>Laza Nantenaina</strong>
 
-I'm a <span style="color:#fa6ede" >Software Engineer</span> at [SmartPredict](https://www.smartpredict-services.com/)
+I'm an independant <span style="color:#fa6ede" >Software Engineer</span>
 
 Always open to opportunities, feel free to contact me at :mailbox: laza6030@gmail.com
 
